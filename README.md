@@ -1,0 +1,1 @@
+# multipe-disease-prediction-app
