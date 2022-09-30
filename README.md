@@ -1,1 +1,1 @@
-# multiple-disease-prediction-app
+# multiple-disease-predictionapp
